@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves the design, simulation, synthesis, and physical verification of a custom 3-bit Arithmetic Logic Unit (ALU) using a 7nm technology node. The ALU supports basic arithmetic operations—addition and subtraction—based on a control signal and integrates a custom library of 34 standard cells developed at the same technology node.
+This project involves the design, simulation, synthesis, and physical verification of a custom 3-bit Arithmetic Logic Unit (ALU) using a 7nm technology node. The ALU supports basic arithmetic operations (addition and subtraction) based on a control signal and integrates a custom library of 34 standard cells developed at the same technology node.
 
 ---
 
