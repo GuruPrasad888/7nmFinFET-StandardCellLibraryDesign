@@ -32,9 +32,9 @@ Includes custom layouts and simulations for:
 
 Each standard cell includes:
 - Schematic and layout
-- DRC and LVS verification
+- DRC and LVS check
 - PEX extraction and HSPICE simulation
-- Liberty file generation (where applicable)
+- Liberty file generation
 
 ### ALU Synthesis and Simulation
 - Synthesized netlist created using the standard cells
